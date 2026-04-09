@@ -1,8 +1,10 @@
 import time
 
-grocery_items = ["tomatoes", "potatoes", "onions", "carrots", "apples", "bananas", "mangoeos", "oranges"]
+grocery_items = ["tomatoes", "potatoes", "onions", "carrots", "apples", "bananas", "mangos", "oranges"]
 prices = [120, 80, 100, 90, 250, 150, 300, 200,]
 print(grocery_items)
+
+#EHHHEHEHHHEHEHEHEHEHEHEHHE
 
 cart = []     
 price_cart = []
